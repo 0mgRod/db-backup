@@ -8,3 +8,9 @@ Open the terminal or command prompt and run:
 ```bash
 pip install tkinter mysql-connector-python-rf plyer pycryptodome
 ```
+
+Run the file or type:
+
+```bash
+py sqlbackup.py
+```
